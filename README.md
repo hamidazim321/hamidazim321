@@ -1,7 +1,5 @@
-# Hey There 👋
-## 💫 About Me:
-My name is Hamid. I'm currently enrolled in Microverse Full Stack Development <br>Program. Along the way, I have acquired a solid base of HTML, CSS, and JavaScript.<br>I have completed several solid projects that are available in my repositories.<br>I'm looking for my next job.<br><br><br>
-
+# 💫 About Me:
+Hi there, I’m Hamid 👋. I’m passionate about building web applications that solve real-world problems. <br> I’m currently honing my skills as a full stack developer at Microverse, where I learn and practice HTML, CSS, JavaScript and more.<br>You can check out some of my projects on my GitHub profile. I’m open to new opportunities and challenges, so feel free to reach out to me if you have something in mind. 😊<br><br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamid-azim-61a525273/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hamidazim321) 
